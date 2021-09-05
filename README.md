@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/huddle-landing-page-using-html-and-css-XRlr-zug8)
+- Live Site URL: (https://prasanthk99.github.io/Huddle-Landing-Page/)
 
 ## My process
 
